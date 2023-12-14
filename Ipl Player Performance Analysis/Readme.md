@@ -1,6 +1,6 @@
 # IPL Data PowerBI Dashboard
 # Overview
-This repository features a PowerBI dashboard presenting comprehensive insights into Indian Premier League (IPL) data spanning from 2008 to 2022. Leveraging Python for data preprocessing, I utilized PowerBI to craft an interactive dashboard that categorizes players into bowlers and batsmen, offering a holistic view of the overall performance.
+This folder features a PowerBI dashboard presenting comprehensive insights into Indian Premier League (IPL) data spanning from 2008 to 2022. Leveraging Python for data preprocessing, I utilized PowerBI to craft an interactive dashboard that categorizes players into bowlers and batsmen, offering a holistic view of the overall performance.
 
 # Features
 Data Grouping: Employed Python to group the IPL data based on overall statistics, categorizing players into bowlers and batsmen for a clearer understanding of their performance.
